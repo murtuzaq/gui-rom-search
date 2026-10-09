@@ -1,0 +1,112 @@
+[
+  {
+    "name": "itch.io",
+    "url": "https://itch.io",
+    "search_url": "https://itch.io/search?q={q}",
+    "consoles": ["PC", "Android", "NES", "SNES", "Game Boy", "GBA", "Sega Genesis"],
+    "hoops": 1,
+    "rating": 5,
+    "license": "Developer-published (free & paid), lots of new homebrew ROMs",
+    "description": "Indie storefront where developers upload their own games directly, including new homebrew for retro consoles. Downloads are direct from the game page."
+  },
+  {
+    "name": "PDRoms",
+    "url": "https://pdroms.de",
+    "search_url": "https://pdroms.de/?s={q}",
+    "consoles": ["NES", "SNES", "N64", "Game Boy", "GBA", "Nintendo DS", "Sega Genesis", "PlayStation", "PSP"],
+    "hoops": 1,
+    "rating": 4,
+    "license": "Public-domain / freely distributable homebrew",
+    "description": "Long-running archive of public-domain and freeware homebrew ROMs for retro systems. Files are linked straight from each entry."
+  },
+  {
+    "name": "Homebrew Hub (gbdev)",
+    "url": "https://hh.gbdev.io",
+    "search_url": "",
+    "consoles": ["Game Boy", "GBA", "NES"],
+    "hoops": 1,
+    "rating": 4,
+    "license": "Community homebrew under open/free licenses",
+    "description": "Community database of homebrew for Game Boy and related systems, with in-browser play and direct ROM downloads."
+  },
+  {
+    "name": "Internet Archive (Software)",
+    "url": "https://archive.org/details/software",
+    "search_url": "https://archive.org/search?query={q}&and[]=mediatype%3A%22software%22",
+    "consoles": ["PC", "NES", "SNES", "Sega Genesis", "Arcade", "PlayStation"],
+    "hoops": 2,
+    "rating": 4,
+    "license": "Mixed: check each item's license/rights statement",
+    "description": "Non-profit digital library with a large software preservation collection. Rights vary per item, so check the item's license before downloading."
+  },
+  {
+    "name": "GOG.com",
+    "url": "https://www.gog.com",
+    "search_url": "https://www.gog.com/en/games?query={q}",
+    "consoles": ["PC"],
+    "hoops": 2,
+    "rating": 5,
+    "license": "Commercial, DRM-free (many free titles)",
+    "description": "Legit DRM-free store focused on classic and retro PC games. Installers are downloaded directly once you own the game."
+  },
+  {
+    "name": "Steam",
+    "url": "https://store.steampowered.com",
+    "search_url": "https://store.steampowered.com/search/?term={q}",
+    "consoles": ["PC"],
+    "hoops": 2,
+    "rating": 5,
+    "license": "Commercial (many free titles, incl. retro collections)",
+    "description": "Largest PC storefront. Many official retro compilations (Sega, Capcom, Konami, etc.) are sold here."
+  },
+  {
+    "name": "F-Droid",
+    "url": "https://f-droid.org",
+    "search_url": "https://search.f-droid.org/?q={q}",
+    "consoles": ["Android"],
+    "hoops": 1,
+    "rating": 5,
+    "license": "Free & open-source",
+    "description": "Catalog of FOSS Android apps and games with direct APK downloads and no account required."
+  },
+  {
+    "name": "Google Play",
+    "url": "https://play.google.com",
+    "search_url": "https://play.google.com/store/search?q={q}&c=apps",
+    "consoles": ["Android"],
+    "hoops": 2,
+    "rating": 5,
+    "license": "Commercial / free",
+    "description": "Official Android store. Requires a Google account; installs straight to your device."
+  },
+  {
+    "name": "PlayStation Store",
+    "url": "https://store.playstation.com",
+    "search_url": "https://store.playstation.com/en-us/search/{q}",
+    "consoles": ["PlayStation", "PS2", "PSP"],
+    "hoops": 3,
+    "rating": 4,
+    "license": "Commercial (PS1/PS2/PSP classics)",
+    "description": "Official Sony store. Sells re-releases of PS1, PS2 and PSP classics playable on current hardware."
+  },
+  {
+    "name": "Nintendo Switch Online",
+    "url": "https://www.nintendo.com/us/switch/online/",
+    "search_url": "",
+    "consoles": ["NES", "SNES", "N64", "Game Boy", "GBA", "Sega Genesis"],
+    "hoops": 3,
+    "rating": 4,
+    "license": "Subscription",
+    "description": "Nintendo's subscription service with official NES, SNES, N64, Game Boy, GBA and Genesis libraries."
+  },
+  {
+    "name": "Antstream Arcade",
+    "url": "https://www.antstream.com",
+    "search_url": "",
+    "consoles": ["Arcade", "PC", "Android", "Sega Genesis"],
+    "hoops": 2,
+    "rating": 3,
+    "license": "Subscription (licensed retro streaming)",
+    "description": "Licensed retro game streaming service covering arcade, home computers and consoles."
+  }
+]
